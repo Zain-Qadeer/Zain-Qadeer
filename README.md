@@ -2,8 +2,6 @@
 
 **Computer Science undergraduate** (4th semester, CGPA 3.72/4.0) at NFC Institute of Engineering & Fertilizer Research, Faisalabad — building full-stack web apps and artificial intelligence and machine learning models, from database design to UI. Currently looking for a **Software Engineering Artificial Intelligence / Machine Learning internship**.
 
-🔭 Currently doing: **#52WeeksOfProjects** — one AI/ML or full-stack project, shipped and deployed, every week for a year.
-
 📫 Reach me: m.zainqadeer090@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammad-zain-qadeer)
 
 ---
